@@ -1,6 +1,6 @@
 # Discord rich presence using Listenbrainz
 
-This is a work in progress modification of the original project to interface with discord's new api features and allow for easier usage. The project is not ready for use or meaningfully different from the original.
+This is a work in progress modification of the original project to interface with discord's new api features and allow for easier usage. The project is not ready for use or meaningfully different from the original. See [#1](https://github.com/qouesm/listenbrainz-discord-presence/issues/1#issuecomment-1666994629).
 
 This program uses a few API's (libraries) in order to display a Listenbrainz user's now playing song as a rich presence status in Disord, those being:
 

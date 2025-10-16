@@ -2,8 +2,6 @@
 
 This is a work in progress modification of the original project to interface with discord's new api features and allow for easier usage. The project is not ready for use or meaningfully different from the original.
 
-![preview](img/preview.png)
-
 This program uses a few API's (libraries) in order to display a Listenbrainz user's now playing song as a rich presence status in Disord, those being:
 
 - [ListenBrainz](https://listenbrainz.readthedocs.io/en/latest/index.html) ([pylistenbrainz](https://pypi.org/project/pylistenbrainz/))

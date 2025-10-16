@@ -1,5 +1,7 @@
 # Discord rich presence using Listenbrainz
 
+This is a work in progress modification of the original project to interface with discord's new api features and allow for easier usage. The project is not ready for use or meaningfully different from the original.
+
 ![preview](img/preview.png)
 
 This program uses a few API's (libraries) in order to display a Listenbrainz user's now playing song as a rich presence status in Disord, those being:
@@ -16,8 +18,8 @@ When ran, it will fetch the now playing song from ListenBrainz, fetch the album 
 
 - Clone the repository and navigate in
 ```
-git clone https://github.com/qouesm/listenbrainz-discord-presence.git
-cd listenbrainz-discord-presence
+git clone https://github.com/harlsofallthings/listenbrainz-discord-presence-reloaded.git
+cd listenbrainz-discord-presence-reloaded
 ```
 
 - Install the required dependancies
